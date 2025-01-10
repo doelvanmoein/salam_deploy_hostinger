@@ -58,7 +58,7 @@
 </head>
 <body>
     <video class="video-background" autoplay muted loop disablePictureInPicture controlsList="nodownload">
-        <source src="<?= base_url('assets/video/bg_homepage_salam.mp4') ?>" type="video/mp4" style="filter: brightness(30%); background-color: rgba(0,0,0,0.25);">
+        <source src="<?= base_url('assets/video/earth.mp4') ?>" type="video/mp4" style="filter: brightness(30%); background-color: rgba(0,0,0,0.25);">
         Your browser does not support HTML5 video.
     </video>
 
