@@ -89,7 +89,7 @@
             </div>
             <div class="col-md-3">
                 <div class="icon-box">
-                    <a href="http://inforumahibadah.22web.org" target="_blank">
+                    <a href="https://rumahibadah.kemenagsawahlunto.com/" target="_blank">
                         <img src="<?= base_url('assets/images/worship-building.png') ?>" style="width: 125px;" alt="Layanan Informasi Rumah Ibadah" class="icon">
                         <h5 class="mt-4">Layanan Informasi Rumah Ibadah</h5>
                     </a>
@@ -114,7 +114,7 @@
 
             <div class="col-md-3">
                 <div class="icon-box">
-                    <a href="http://simpelkemenagsawahlunto.unaux.com/" target="_blank">
+                    <a href="https://kinerja.kemenagsawahlunto.com" target="_blank">
                         <img src="<?= base_url('assets/images/report.png') ?>" style="width: 125px;" alt="Sistem Pelaporan Kinerja Bulanan" class="icon">
                         <h5 class="mt-4">Sistem Pelaporan Kinerja Bulanan</h5>
                     </a>
